@@ -4,14 +4,15 @@ Abaixo, você pode conhecer um pouco mais sobre o meu trabalho e as tecnologias 
 
 ## 👨‍💻 Sobre mim
 - 🔭 Atualmente focado em desenvolvimento web Full-Stack e soluções de infraestrutura de TI.
-- 🌱 Especializando em Python, Flask, Java e automação de processos.
-- ⚙️ Criando soluções que vão desde o monitoramento de redes até sistemas de gestão (WMS/ERP).
-- ⚡ Curiosidade: Gosto de resolver problemas que unem código, Java, SQL e hardwares físicos!
+- 🌱 Estudando e aprimorando: Python, Java, C# e SQL.
+- ⚙️ Especializando-se em: Criação de sistemas de gestão (como WMS/ERP) e automação de processos para otimizar fluxos de trabalho.
+- ⚡ Curiosidade: Gosto de resolver problemas que unem código e hardwares físicos (como configurações de redes e manutenção).
 
 ## 🛠️ Tecnologias e Ferramentas
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -21,7 +22,6 @@ Abaixo, você pode conhecer um pouco mais sobre o meu trabalho e as tecnologias 
 
 ## 📊 Minha Atividade no GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=otaviotomaseli&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviotomaseli&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="150" />
 </div>
