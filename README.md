@@ -20,11 +20,10 @@ Abaixo, podes conhecer um pouco mais sobre o meu trabalho e as tecnologias que d
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
 
-## 📊 A Minha Atividade no GitHub
+## 📊 Minha Atividade no GitHub
 <div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=otaviotomaseli&show_icons=true&theme=tokyonight)](https://github.com/otaviotomaseli)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviotomaseli&layout=compact&theme=tokyonight)](https://github.com/otaviotomaseli)
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=otaviotomaseli&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviotomaseli&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</div>
 
 </div>
