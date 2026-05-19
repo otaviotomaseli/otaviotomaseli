@@ -1,11 +1,11 @@
 # Olá, eu sou o Otávio! 👋
 
-Abaixo, você pode conhecer um pouco mais sobre o meu trabalho e as tecnologias que domino.
+Abaixo, podes conhecer um pouco mais sobre o meu trabalho e as tecnologias que domino.
 
 ## 👨‍💻 Sobre mim
 - 🔭 Atualmente focado em desenvolvimento web Full-Stack e soluções de infraestrutura de TI.
-- 🌱 Estudando e aprimorando: Python, Java, C# e SQL.
-- ⚙️ Especializando-se em: Criação de sistemas de gestão (como WMS/ERP) e automação de processos para otimizar fluxos de trabalho.
+- 🌱 A estudar e a aprimorar: Python, Java, C# e SQL.
+- ⚙️ A especializar-me em: Criação de sistemas de gestão (como WMS/ERP) e automação de processos para otimizar fluxos de trabalho.
 - ⚡ Curiosidade: Gosto de resolver problemas que unem código e hardwares físicos (como configurações de redes e manutenção).
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -20,8 +20,11 @@ Abaixo, você pode conhecer um pouco mais sobre o meu trabalho e as tecnologias 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
 
-## 📊 Minha Atividade no GitHub
+## 📊 A Minha Atividade no GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otaviotomaseli&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviotomaseli&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="150" />
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=otaviotomaseli&show_icons=true&theme=tokyonight)](https://github.com/otaviotomaseli)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviotomaseli&layout=compact&theme=tokyonight)](https://github.com/otaviotomaseli)
+
 </div>
