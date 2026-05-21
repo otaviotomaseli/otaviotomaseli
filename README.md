@@ -22,6 +22,6 @@ Abaixo, podes conhecer um pouco mais sobre o meu trabalho e as tecnologias que d
 
 ## 📊 Minha Atividade no GitHub
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=otaviotomaseli&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviotomaseli&layout=donut&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=otaviotomaseli&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otaviotomaseli&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
